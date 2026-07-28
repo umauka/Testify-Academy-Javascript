@@ -1,0 +1,20 @@
+{
+  "name": "testify-academy-javascript",
+  "version": "1.0.0",
+  "description": "Javascript Course by Testify Academy",
+  "homepage": "https://github.com/umauka/Testify-Academy-Javascript#readme",
+  "bugs": {
+    "url": "https://github.com/umauka/Testify-Academy-Javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umauka/Testify-Academy-Javascript.git"
+  },
+  "license": "ISC",
+  "author": "Uma Uka",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
